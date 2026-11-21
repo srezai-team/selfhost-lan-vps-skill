@@ -8,6 +8,8 @@
 [![OS: Ubuntu 22.04+](https://img.shields.io/badge/OS-Ubuntu%2022.04%2B-E95420)](#requirements)
 [![Works with: agent skills](https://img.shields.io/badge/works%20with-DSH%20%7C%20agent%20skills-0a7ea4)](#quick-start)
 
+![selfhost-lan-vps-skill — agent skill that turns an Ubuntu PC into a hardened home server](docs/social-preview.png)
+
 An agent skill that turns "my Ubuntu PC should become a server, and I want to reach it from the internet" into a repeatable, reversible procedure — including the part no script can do alone: a non-technical owner plugs in a cable, enters the BIOS, and calls their ISP with a ready-made script.
 
 Written from a real migration (mini-PC → home server), not from theory. Every trap in [`references/pitfalls.md`](references/pitfalls.md) cost real time during that migration.
